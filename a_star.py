@@ -1,3 +1,12 @@
+""
+A* path finding with pygamezero
+Find the shortest path from top-left corner to bottom-right corner.
+Obstacles are generated randomly each time.
+
+Author: ML Hsieh
+2020-2-23
+"""
+
 # pylint: disable=missing-module-docstring, invalid-name, missing-function-docstring
 import random
 import math
